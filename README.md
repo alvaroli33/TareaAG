@@ -1,1 +1,1 @@
-# TareAG
+# TareaAG
